@@ -31,3 +31,11 @@ install Prisma Client, run the following command:
 Seed your database by running the following command:
 
 `npx prisma seed`
+
+<br/>
+
+# GraphQL API
+
+install Graphql, apollo server, run the following command:
+
+`npm install graphql apollo-server-micro micro-cors`
