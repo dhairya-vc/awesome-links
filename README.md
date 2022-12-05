@@ -39,3 +39,12 @@ Seed your database by running the following command:
 install Graphql, apollo server, run the following command:
 
 `npm install graphql apollo-server-micro micro-cors`
+```
+Update on 👆
+In Apollo GraphQL server v4 apollo-server-micro & micro-cors are deprecated and no longer maintained by the team
+Refer this migration https://www.apollographql.com/docs/apollo-server/migration
+```
+
+install apollo graphql client:
+
+`npm install @apollo/client`
